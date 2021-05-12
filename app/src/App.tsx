@@ -1,10 +1,4 @@
-import logo from './logo.svg';
-import './App.css';
 
-function App() {
-  return (
-   
-  );
-}
+export const App: React.VFC = () => <div>Howdy</div>;
 
 export default App;
